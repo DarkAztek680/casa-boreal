@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="128" fill="#8B9556"/>
+  <circle cx="256" cy="200" r="80" fill="#F5EBDC"/>
+  <path d="M176 320 Q256 280 336 320" stroke="#F5EBDC" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <circle cx="200" cy="360" r="20" fill="#F5EBDC"/>
+  <circle cx="312" cy="360" r="20" fill="#F5EBDC"/>
+  <text x="256" y="450" text-anchor="middle" fill="#F5EBDC" font-family="serif" font-size="32" font-weight="bold">CB</text>
+</svg>

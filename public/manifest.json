@@ -1,0 +1,21 @@
+{
+  "name": "Casa Boreal - Barre en Puebla",
+  "short_name": "Casa Boreal",
+  "description": "Transforma tu cuerpo y mente con clases de Barre en Puebla",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EBDC",
+  "theme_color": "#8B9556",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es-MX",
+  "categories": ["health", "fitness", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
